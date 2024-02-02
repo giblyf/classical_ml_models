@@ -8,8 +8,8 @@
 Каждый проект включает в себя примеры использования различных моделей машинного обучения на разнообразных датасетах, что помогает закрепить полученные знания на практике.
 
 ## Модели
-1. [Feature Engineering / EDA](https://github.com/giblyf/classical_ml_models/tree/main/linear_regression_models)
-2. [Linear Models (Linear, Polynomial, Lasso/Ridge)]()
+1. [Feature Engineering / EDA](https://github.com/giblyf/classical_ml_models/tree/main/featrue_engineering)
+2. [Linear Models (Linear, Polynomial, Lasso/Ridge)](https://github.com/giblyf/classical_ml_models/tree/main/linear_regression_models)
 3. [Logistic Regression](https://github.com/giblyf/classical_ml_models/tree/main/logistic_regression)
 4. [KNN](https://github.com/giblyf/classical_ml_models/tree/main/knn)
 5. [SVM](https://github.com/giblyf/classical_ml_models/tree/main/svm)
